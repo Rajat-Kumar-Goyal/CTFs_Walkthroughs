@@ -29,6 +29,7 @@ Steps to Reproduce with Proof of Concept:
 9)  Flag found successfully.
 
 Payload: Change the User-Agent in Burp Suite- Proxy > Intercept  
-      From "Mozilla/5.0 …………" to "picobrowser"
+     
+               From "Mozilla/5.0 …………" to "picobrowser"
 
 
