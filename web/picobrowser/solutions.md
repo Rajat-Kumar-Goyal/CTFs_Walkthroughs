@@ -26,9 +26,9 @@ Steps to Reproduce with Proof of Concept:
 
 ![pico1111111](https://user-images.githubusercontent.com/86824260/126041645-0d3ce39f-0b5e-454f-bdb4-3e8fa0bcbb21.png)
 
-9)      Flag successfully found!:sparkle:
+9)  Flag found successfully.
 
 Payload: Change the User-Agent in Burp Suite- Proxy > Intercept  
-      From Mozilla/5.0 ………… to picobrowser
+      From "Mozilla/5.0 …………" to "picobrowser"
 
 
