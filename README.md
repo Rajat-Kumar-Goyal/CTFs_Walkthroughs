@@ -1,3 +1,3 @@
-# picoCTF
+# Some CTFs
 
-Some picoCTF Web Exploitation Challenges Writeups 🤞
+Some CTFs Challenges Writeups from various sites and will be updated frequently 🤞
